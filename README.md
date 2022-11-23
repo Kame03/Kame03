@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Design and Java
 - 🌱 I’m currently learning Web Design
 - 💞️ I’m looking to collaborate on FOSS Projects
-- 📫 You can reach me via this email address: milivojevic_viktor@zohomail.eu
+- 📫 You can reach me via this email address: viktor@milivojevic.in.rs
 
 <!---
 Kame03/Kame03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
